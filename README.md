@@ -12,7 +12,7 @@
 #### A social networking platform provided to bridge gaps between various developers, organisations and open source aspirants to elaborate various things like #projects, #events, #discussion on various researches, #scholarships, #coding release and various other updates.
 
 ## Technical Features
---------------------
+-------------------------
 * Sign up / login authentication
 * Node.js basic password authentication (uses unique email and password)
 * Third party login access
